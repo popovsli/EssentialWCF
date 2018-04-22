@@ -1,0 +1,12 @@
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/IStockService/GetPriceResponse</a:Action>
+    <ActivityId CorrelationId="6116f46c-f97e-4e6c-ba38-886ae4288da7" xmlns="http://schemas.microsoft.com/2004/09/ServiceModel/Diagnostics">d9ddeb22-db61-4068-9e93-931400f98be8</ActivityId>
+    <a:RelatesTo>urn:uuid:4ee57415-1092-47fb-b1fd-07a23ef9f3fa</a:RelatesTo>
+  </s:Header>
+  <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <GetPriceResponse xmlns="http://tempuri.org/">
+      <GetPriceResult price="94.85" calls="3" RequestedBy="TL-HQ\nrpopov" />
+    </GetPriceResponse>
+  </s:Body>
+</s:Envelope>

@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\obj\Debug\StockQuoteWCF.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

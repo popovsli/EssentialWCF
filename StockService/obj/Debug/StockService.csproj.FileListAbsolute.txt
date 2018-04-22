@@ -1,0 +1,5 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\StockService\bin\Debug\StockService.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\StockService\bin\Debug\StockService.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\StockService\obj\Debug\StockService.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\StockService\obj\Debug\StockService.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\StockService\obj\Debug\StockService.pdb

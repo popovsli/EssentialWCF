@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\bin\Debug\UriTemplates.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\bin\Debug\UriTemplates.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\bin\Debug\UriTemplates.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\obj\Debug\UriTemplates.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\obj\Debug\UriTemplates.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\UriTemplates\obj\Debug\UriTemplates.pdb

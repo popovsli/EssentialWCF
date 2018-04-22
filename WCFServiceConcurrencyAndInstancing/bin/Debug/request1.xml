@@ -1,0 +1,61 @@
+<s:Envelope xmlns:s="http://www.w3.org/2003/05/soap-envelope" xmlns:r="http://schemas.xmlsoap.org/ws/2005/02/rm" xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:u="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+  <s:Header>
+    <r:SequenceAcknowledgement u:Id="_2">
+      <r:Identifier>urn:uuid:d68ea640-4438-41b8-bb39-e63fd8eb54f6</r:Identifier>
+      <r:AcknowledgementRange Lower="1" Upper="2" />
+    </r:SequenceAcknowledgement>
+    <r:Sequence s:mustUnderstand="1" u:Id="_3">
+      <r:Identifier>urn:uuid:e36a7ffd-2291-4bbb-bdaf-fa0240e27253</r:Identifier>
+      <r:MessageNumber>3</r:MessageNumber>
+    </r:Sequence>
+    <a:Action s:mustUnderstand="1" u:Id="_4">http://tempuri.org/IStockService/GetPrice</a:Action>
+    <a:MessageID u:Id="_5">urn:uuid:4ee57415-1092-47fb-b1fd-07a23ef9f3fa</a:MessageID>
+    <a:ReplyTo u:Id="_6">
+      <a:Address>http://www.w3.org/2005/08/addressing/anonymous</a:Address>
+    </a:ReplyTo>
+    <a:To s:mustUnderstand="1" u:Id="_7">http://localhost:8000/WCFServiceConcurrencyAndInstancing/wshttp</a:To>
+    <o:Security s:mustUnderstand="1" xmlns:o="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <u:Timestamp u:Id="uuid-95b804f6-6c1f-4eaa-8de2-d5e6b69328eb-11">
+        <u:Created>2016-08-18T14:54:24.481Z</u:Created>
+        <u:Expires>2016-08-18T14:59:24.481Z</u:Expires>
+      </u:Timestamp>
+      <c:SecurityContextToken u:Id="uuid-5699ce52-bff8-49a4-bf6b-fa712eaab232-2" xmlns:c="http://schemas.xmlsoap.org/ws/2005/02/sc">
+        <c:Identifier>urn:uuid:83608648-cc3e-4178-8f0b-8f793badec4a</c:Identifier>
+      </c:SecurityContextToken>
+      <c:DerivedKeyToken u:Id="uuid-95b804f6-6c1f-4eaa-8de2-d5e6b69328eb-4" xmlns:c="http://schemas.xmlsoap.org/ws/2005/02/sc">
+        <o:SecurityTokenReference>
+          <o:Reference ValueType="http://schemas.xmlsoap.org/ws/2005/02/sc/sct" URI="#uuid-5699ce52-bff8-49a4-bf6b-fa712eaab232-2" />
+        </o:SecurityTokenReference>
+        <c:Offset>0</c:Offset>
+        <c:Length>24</c:Length>
+        <c:Nonce>D0NNaqGqkRS7KJH5K2rvTQ==</c:Nonce>
+      </c:DerivedKeyToken>
+      <c:DerivedKeyToken u:Id="uuid-95b804f6-6c1f-4eaa-8de2-d5e6b69328eb-5" xmlns:c="http://schemas.xmlsoap.org/ws/2005/02/sc">
+        <o:SecurityTokenReference>
+          <o:Reference ValueType="http://schemas.xmlsoap.org/ws/2005/02/sc/sct" URI="#uuid-5699ce52-bff8-49a4-bf6b-fa712eaab232-2" />
+        </o:SecurityTokenReference>
+        <c:Nonce>ElyrkFJ5WtYVvZfRApAIBQ==</c:Nonce>
+      </c:DerivedKeyToken>
+      <e:ReferenceList xmlns:e="http://www.w3.org/2001/04/xmlenc#">
+        <e:DataReference URI="#_1" />
+        <e:DataReference URI="#_8" />
+      </e:ReferenceList>
+      <e:EncryptedData Id="_8" Type="http://www.w3.org/2001/04/xmlenc#Element" xmlns:e="http://www.w3.org/2001/04/xmlenc#">
+        <e:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+        <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+          <o:SecurityTokenReference>
+            <o:Reference ValueType="http://schemas.xmlsoap.org/ws/2005/02/sc/dk" URI="#uuid-95b804f6-6c1f-4eaa-8de2-d5e6b69328eb-5" />
+          </o:SecurityTokenReference>
+        </KeyInfo>
+        <e:CipherData>
+          <e:CipherValue>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</e:CipherValue>
+        </e:CipherData>
+      </e:EncryptedData>
+    </o:Security>
+  </s:Header>
+  <s:Body u:Id="_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <GetPrice xmlns="http://tempuri.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <ticker>test</ticker>
+    </GetPrice>
+  </s:Body>
+</s:Envelope>

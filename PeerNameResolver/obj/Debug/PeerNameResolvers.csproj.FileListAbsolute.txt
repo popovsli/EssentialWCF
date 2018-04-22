@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\bin\Debug\PeerNameResolvers.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\bin\Debug\PeerNameResolvers.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\bin\Debug\PeerNameResolvers.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\obj\Debug\PeerNameResolvers.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\obj\Debug\PeerNameResolvers.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\PeerNameResolver\obj\Debug\PeerNameResolvers.pdb

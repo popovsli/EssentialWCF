@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\bin\Debug\DuplexWCF.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\bin\Debug\DuplexWCF.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\bin\Debug\DuplexWCF.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\obj\Debug\DuplexWCF.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\obj\Debug\DuplexWCF.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\DuplexWCF\obj\Debug\DuplexWCF.pdb

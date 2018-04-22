@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\bin\Debug\Serialization.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\bin\Debug\Serialization.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\obj\Debug\Serialization.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\obj\Debug\Serialization.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache

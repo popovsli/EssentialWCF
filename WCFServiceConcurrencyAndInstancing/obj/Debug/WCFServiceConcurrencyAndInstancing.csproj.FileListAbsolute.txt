@@ -1,0 +1,9 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\bin\Debug\WCFServiceConcurrencyAndInstancing.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\bin\Debug\WCFServiceConcurrencyAndInstancing.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\obj\Debug\WCFServiceConcurrencyAndInstancing.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\obj\Debug\WCFServiceConcurrencyAndInstancing.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\obj\Debug\WCFServiceConcurrencyAndInstancing.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\bin\Debug\WCFServiceConcurrencyAndInstancing.exe.config
+C:\Users\nrpopov\Desktop\C# Samples\Visual Studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\bin\Debug\WCFServiceConcurrencyAndInstancing.exe.config
+C:\Users\nrpopov\Desktop\C# Samples\Visual Studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\obj\Debug\WCFServiceConcurrencyAndInstancing.exe
+C:\Users\nrpopov\Desktop\C# Samples\Visual Studio 2013\Projects\EssentialWCF\WCFServiceConcurrencyAndInstancing\obj\Debug\WCFServiceConcurrencyAndInstancing.pdb

@@ -1,0 +1,14 @@
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/IStockService/GetPriceResponse</a:Action>
+    <a:RelatesTo>urn:uuid:89cd58d3-3b95-467b-a05d-ee0dc248f902</a:RelatesTo>
+  </s:Header>
+  <s:Body>
+    <GetPriceResponse xmlns="http://tempuri.org/">
+      <GetPriceResult xmlns:d4p1="http://schemas.datacontract.org/2004/07/WCFServiceConcurrencyAndInstancing" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <d4p1:calls>3</d4p1:calls>
+        <d4p1:price>94.85</d4p1:price>
+      </GetPriceResult>
+    </GetPriceResponse>
+  </s:Body>
+</s:Envelope>

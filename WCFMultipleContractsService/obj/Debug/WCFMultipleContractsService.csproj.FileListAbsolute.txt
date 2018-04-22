@@ -1,0 +1,6 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\bin\Debug\WCFMultipleContractsService.exe.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\bin\Debug\WCFMultipleContractsService.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\bin\Debug\WCFMultipleContractsService.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\obj\Debug\WCFMultipleContractsService.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\obj\Debug\WCFMultipleContractsService.exe
+C:\Users\nrpopov\documents\visual studio 2013\Projects\EssentialWCF\WCFMultipleContractsService\obj\Debug\WCFMultipleContractsService.pdb
